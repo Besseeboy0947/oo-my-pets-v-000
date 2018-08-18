@@ -7,8 +7,3 @@ end 	  attr_reader :name
     @name = name
   end
 end
- # can initialize a cat (FAILED - 1)
-# initializes with a name (FAILED - 2)
-# can't change its name
-# initializes with a nervous mood (FAILED - 3)
-# can change its mood (FAILED - 4) 
